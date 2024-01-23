@@ -2,6 +2,13 @@
 
 ## Newbie
 
+### *Stats preview card component*
+
+| [Live Site](https://mendez-v.github.io/stats-preview-card/) | [Repository](https://github.com/mendez-v/stats-preview-card) |
+| --- | ---|
+
+![Stats preview card component sample](https://raw.githubusercontent.com/mendez-v/stats-preview-card/main/assets/vid/preview.gif)
+
 ### *Order summary component*
 
 | [Live Site](https://mendez-v.github.io/order-summary-component/) | [Repository](https://github.com/mendez-v/order-summary-component) |
