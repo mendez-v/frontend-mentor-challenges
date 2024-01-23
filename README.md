@@ -2,12 +2,19 @@
 
 ## Newbie
 
+### *Single price grid component*
+
+| [Live Site](https://mendez-v.github.io/single-price-component/) | [Repository](https://github.com/mendez-v/single-price-component) |
+| --- | ---|
+
+![Single price grid component sample](https://raw.githubusercontent.com/mendez-v/single-price-component/main/assets/vid/preview.gif)
+
 ### *3-column preview card component*
 
 | [Live Site](https://mendez-v.github.io/3-column-preview-card/) | [Repository](https://github.com/mendez-v/3-column-preview-card) |
 | --- | ---|
 
-![QR code component sample](https://raw.githubusercontent.com/mendez-v/3-column-preview-card/main/assets/vid/preview.gif)
+![3-column preview card component sample](https://raw.githubusercontent.com/mendez-v/3-column-preview-card/main/assets/vid/preview.gif)
 
 ### *QR code component*
 
