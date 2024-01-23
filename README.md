@@ -2,6 +2,13 @@
 
 ## Newbie
 
+### *Profile card component*
+
+| [Live Site](https://mendez-v.github.io/profile-card-component/) | [Repository](https://github.com/mendez-v/profile-card-component) |
+| --- | ---|
+
+![Profile card component sample](https://raw.githubusercontent.com/mendez-v/profile-card-component/main/assets/video/sample.gif)
+
 ### *Four card feature section*
 
 | [Live Site](https://mendez-v.github.io/four-card-feature/) | [Repository](https://github.com/mendez-v/four-card-feature) |
