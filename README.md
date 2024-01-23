@@ -2,6 +2,13 @@
 
 ## Newbie
 
+### *NFT preview card component*
+
+| [Live Site](https://mendez-v.github.io/nft-preview-card/) | [Repository](https://github.com/mendez-v/nft-preview-card) |
+| --- | ---|
+
+![NFT preview card component sample](https://raw.githubusercontent.com/mendez-v/nft-preview-card/main/assets/video/sample.gif)
+
 ### *Profile card component*
 
 | [Live Site](https://mendez-v.github.io/profile-card-component/) | [Repository](https://github.com/mendez-v/profile-card-component) |
