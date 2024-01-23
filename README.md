@@ -2,6 +2,13 @@
 
 ## Newbie
 
+### *Order summary component*
+
+| [Live Site](https://mendez-v.github.io/order-summary-component/) | [Repository](https://github.com/mendez-v/order-summary-component) |
+| --- | ---|
+
+![Order summary component sample](https://raw.githubusercontent.com/mendez-v/order-summary-component/main/assets/vid/preview.gif)
+
 ### *Single price grid component*
 
 | [Live Site](https://mendez-v.github.io/single-price-component/) | [Repository](https://github.com/mendez-v/single-price-component) |
