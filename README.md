@@ -2,6 +2,13 @@
 
 ## Newbie
 
+### *Product preview card component*
+
+| [Live Site](https://mendez-v.github.io/product-preview-card/) | [Repository](https://github.com/mendez-v/product-preview-card) |
+| --- | ---|
+
+![Product preview card component sample](https://raw.githubusercontent.com/mendez-v/product-preview-card/main/assets/video/sample.gif)
+
 ### *Stats preview card component*
 
 | [Live Site](https://mendez-v.github.io/stats-preview-card/) | [Repository](https://github.com/mendez-v/stats-preview-card) |
