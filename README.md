@@ -2,6 +2,13 @@
 
 ## Newbie
 
+### *Blog preview card*
+
+| [Live Site](https://mendez-v.github.io/blog-preview-card/) | [Repository](https://github.com/mendez-v/blog-preview-card) |
+| --- | ---|
+
+![Blog preview card sample](https://raw.githubusercontent.com/mendez-v/blog-preview-card/main/assets/video/sample.gif)
+
 ### *NFT preview card component*
 
 | [Live Site](https://mendez-v.github.io/nft-preview-card/) | [Repository](https://github.com/mendez-v/nft-preview-card) |
