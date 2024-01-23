@@ -2,6 +2,13 @@
 
 ## Newbie
 
+### *Huddle landing page with a single introductory section*
+
+| [Live Site](https://mendez-v.github.io/huddle-introductory-section/) | [Repository](https://github.com/mendez-v/huddle-introductory-section) |
+| --- | ---|
+
+![Huddle landing page with a single introductory section sample](https://raw.githubusercontent.com/mendez-v/huddle-introductory-section/main/assets/video/sample.gif)
+
 ### *Blog preview card*
 
 | [Live Site](https://mendez-v.github.io/blog-preview-card/) | [Repository](https://github.com/mendez-v/blog-preview-card) |
