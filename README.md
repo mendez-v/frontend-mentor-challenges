@@ -2,6 +2,13 @@
 
 ## Newbie
 
+### *Four card feature section*
+
+| [Live Site](https://mendez-v.github.io/four-card-feature/) | [Repository](https://github.com/mendez-v/four-card-feature) |
+| --- | ---|
+
+![Four card feature section sample](https://raw.githubusercontent.com/mendez-v/four-card-feature/main/assets/video/sample.gif)
+
 ### *Product preview card component*
 
 | [Live Site](https://mendez-v.github.io/product-preview-card/) | [Repository](https://github.com/mendez-v/product-preview-card) |
