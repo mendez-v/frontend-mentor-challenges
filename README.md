@@ -2,6 +2,13 @@
 
 ## Newbie
 
+### *Social proof section*
+
+| [Live Site](https://mendez-v.github.io/social-proof-section/) | [Repository](https://github.com/mendez-v/social-proof-section) |
+| --- | ---|
+
+![Social proof section sample](https://raw.githubusercontent.com/mendez-v/social-proof-section/main/assets/video/sample.gif)
+
 ### *Huddle landing page with a single introductory section*
 
 | [Live Site](https://mendez-v.github.io/huddle-introductory-section/) | [Repository](https://github.com/mendez-v/huddle-introductory-section) |
