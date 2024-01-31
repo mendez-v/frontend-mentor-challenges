@@ -1,5 +1,15 @@
 # Frontend Mentor Challenges
 
+## Junior
+
+### *Fylo data storage component*
+
+| [Live Site](https://mendez-v.github.io/fylo-data-storage-component/) | [Repository](https://github.com/mendez-v/fylo-data-storage-component) |
+| --- | ---|
+
+![Fylo data storage component sample](https://raw.githubusercontent.com/mendez-v/fylo-data-storage-component/main/assets/video/sample.gif)
+
+
 ## Newbie
 
 ### *Social proof section*
