@@ -2,6 +2,13 @@
 
 ## Junior
 
+### *Testimonials grid section*
+
+| [Live Site](https://mendez-v.github.io/testimonials-grid-section/) | [Repository](https://github.com/mendez-v/testimonials-grid-section) |
+| --- | ---|
+
+![Testimonials grid section sample](https://raw.githubusercontent.com/mendez-v/testimonials-grid-section/main/assets/video/sample.gif)
+
 ### *Fylo data storage component*
 
 | [Live Site](https://mendez-v.github.io/fylo-data-storage-component/) | [Repository](https://github.com/mendez-v/fylo-data-storage-component) |
