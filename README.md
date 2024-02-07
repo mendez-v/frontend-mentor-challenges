@@ -1,6 +1,27 @@
 # Frontend Mentor Challenges
 
-## Junior
+#### *Index*
+
++ [***Junior HTML & CSS***](#junior-html--css)
+  + [Testimonials grid section](#testimonials-grid-section)
+  + [Fylo data storage component](#fylo-data-storage-component)
+
++ [***Newbie HTML & CSS***](#newbie-html--css)
+  + [Recipe page](#recipe-page)
+  + [Social proof section](#social-proof-section)
+  + [Huddle landing page with a single introductory section](#huddle-landing-page-with-a-single-introductory-section)
+  + [Blog preview card](#blog-preview-card)
+  + [NFT preview card component](#nft-preview-card-component)
+  + [Profile card component](#profile-card-component)
+  + [Four card feature section](#four-card-feature-section)
+  + [Product preview card component](#product-preview-card-component)
+  + [Stats preview card component](#stats-preview-card-component)
+  + [Order summary component](#order-summary-component)
+  + [Single price grid component](#single-price-grid-component)
+  + [3 column preview card component](#3-column-preview-card-component)
+  + [QR code component](#qr-code-component)
+
+## Junior HTML & CSS
 
 ### *Testimonials grid section*
 
@@ -17,7 +38,14 @@
 ![Fylo data storage component sample](https://raw.githubusercontent.com/mendez-v/fylo-data-storage-component/main/assets/video/sample.gif)
 
 
-## Newbie
+## Newbie HTML & CSS
+
+### *Recipe page*
+
+| [Live Site](https://mendez-v.github.io/recipe-page/) | [Repository](https://github.com/mendez-v/recipe-page) |
+| --- | ---|
+
+![Recipe page sample](https://raw.githubusercontent.com/mendez-v/recipe-page/main/assets/video/sample.gif)
 
 ### *Social proof section*
 
