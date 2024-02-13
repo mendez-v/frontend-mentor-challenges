@@ -3,6 +3,7 @@
 #### *Index*
 
 + [***Junior HTML & CSS***](#junior-html--css)
+  + [Clipboard landing page](#clipboard-landing-page)
   + [Testimonials grid section](#testimonials-grid-section)
   + [Fylo data storage component](#fylo-data-storage-component)
 
@@ -22,6 +23,13 @@
   + [QR code component](#qr-code-component)
 
 ## Junior HTML & CSS
+
+### *Clipboard landing page*
+
+| [Live Site](https://mendez-v.github.io/clipboard-landing/) | [Repository](https://github.com/mendez-v/clipboard-landing) |
+| --- | ---|
+
+![Testimonials grid section sample](https://raw.githubusercontent.com/mendez-v/clipboard-landing/main/assets/video/sample.gif)
 
 ### *Testimonials grid section*
 
